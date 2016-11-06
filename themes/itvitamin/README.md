@@ -21,7 +21,7 @@ Open `./THEMENAME/css/style.css` and modify the file to your liking.
 ## Override Settings {#settings}
 Please refer to the @link theme_settings Sub-theme Settings @endlink topic.
 
-## Override Templates and Theme Functions {#registry}Harshad
+## Override Templates and Theme Functions {#registry}
 Please refer to the @link registry Theme Registry @endlink topic.
 
 [Drupal Bootstrap]: https://www.drupal.org/project/bootstrap
