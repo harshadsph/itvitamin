@@ -1,3 +1,60 @@
 /**
  * Place your custom styles here.
  */
+
+/*.path-frontpage{
+	    	background-image: url("http://i.dailymail.co.uk/i/pix/2015/12/10/17/2F36784A00000578-3350759-Get_in_touch_with_nature_in_the_most_lavish_way_possible_by_stay-m-10_1449767697220.jpg");
+    		background-size: cover;
+    		background-repeat: no-repeat;
+}*/
+/* header.navbar{ */
+	
+/* 		max-width: 100% !important; */
+		
+/* } */
+
+header .navbar-header{
+	
+	height: 50px;
+}
+header .navbar-header img{
+	
+	height: 50px;
+	padding-bottom: 10px;
+}
+header .navbar-header .name{
+	
+	font-weight: bold;
+	margin-left: -15px;
+	border-right: 1.5px solid #E7E7E7;
+	
+}
+
+
+
+/**
+	Footer Styles
+**/
+.footer{
+   		border-top: 1px solid #E5E5E5;
+    	bottom: 0;
+   		position: fixed;
+		margin:0;
+		padding: 0;
+		background-image: url(../images/footer_bg.png);
+		color: #FFF;
+		width: 100%;
+}
+
+.footer a{
+		text-decoration: none;
+		color:#FFF;
+}
+
+.footer .nav >li{
+		display: table-cell;
+}
+
+.fb_user-login-button-wrapper img{
+	width: -moz-available;
+}
