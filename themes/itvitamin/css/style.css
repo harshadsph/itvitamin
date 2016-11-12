@@ -13,21 +13,18 @@
 		
 /* } */
 
-header .navbar-header{
-	
-	height: 50px;
-}
-header .navbar-header img{
-	
-	height: 50px;
-	padding-bottom: 10px;
-}
-header .navbar-header .name{
+
+
+header .navbar-header {
 	
 	font-weight: bold;
-	margin-left: -15px;
+	padding-right: 15px;
 	border-right: 1.5px solid #E7E7E7;
 	
+}
+
+header .navbar-brand {
+	display: none;
 }
 
 
