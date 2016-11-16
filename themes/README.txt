@@ -12,7 +12,7 @@ DOWNLOAD ADDITIONAL THEMES
 --------------------------
 
 Contributed themes from the Drupal community may be downloaded at
-https://www.drupal.org/project/project_theme.
+https://www.drupal.org/project/project_theme <<<<<<<<<<<Harshad>>>>>>>>>>>>>
 
 MULTISITE CONFIGURATION
 -----------------------
